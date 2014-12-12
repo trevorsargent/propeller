@@ -27,7 +27,7 @@ can:
 - see a dollar value of what they owe for damage
 
 ###Items
-Prop
+Prop   
 has:
 - name
 - description
@@ -37,7 +37,7 @@ has:
 - current location (visible only to the props manager)
 - storage location (visible only to the props manager)
 
-Costumes
+Costumes   
 has:
 {repeat: prop}
 - time period
