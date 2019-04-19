@@ -1,10 +1,10 @@
-#Propeller
+# Propeller
 
 a prop and costume lending/rental tracking database application for a small theater or rental house.  Initially made for Fir Acres Theater at Lewis & Clark College.
 
-##Roadmap
+## Roadmap
 
-###Users
+### Users
 Props/Costumes Manager
 can:
 - maintain inventory
@@ -26,7 +26,7 @@ can:
 - see a list of what they are responsible for replacing
 - see a dollar value of what they owe for damage
 
-###Items
+### Items
 Prop   
 has:
 - name
@@ -42,7 +42,7 @@ has:
 {repeat: prop}
 - time period
 
-###System
+### System
 generates and keeps record of:  
 - renters' agreements
 - renters' contact info
